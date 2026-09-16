@@ -1,5 +1,6 @@
 # Pluto-Realty-DB-project
-A database management project designed to simulate the process of gathering requirements and designing a database to match requirments from a client
+A database management project designed to simulate the process of gathering requirements and designing a database to match requirments from a client for
+a fake company
 
 I am tasked to design The Pluto Realty database, which is an application intended to 
 support the operations of Pluto Realty, Inc. by allowing employees to manage rental properties, 
